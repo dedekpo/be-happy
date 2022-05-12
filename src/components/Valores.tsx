@@ -62,7 +62,7 @@ import {
             </Text>
             <Heading>Tudo que você procura em um só lugar</Heading>
             <Text color={'gray.500'} fontSize={'lg'}>
-              Na Be Happy o que importa é a satisfação dos nossos clientes. Estamos satisfeitos com o cliente satisfeito.
+            Na Be Happy o que importa é a satisfação dos nossos clientes. Ficamos felizes quando nosso cliente fica feliz.
             </Text>
             <Stack
               spacing={4}

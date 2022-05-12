@@ -86,7 +86,7 @@ export default function Features() {
               mx={{ lg: "auto" }}
               color="gray.500"
             >
-              Ajudamos o cliente a encontrar empreendimentos turísticos sempre de forma transparente e com o objetivo de entregar o melhor negócio.
+              Ajudamos o cliente na busca de empreendimentos turísticos sempre de forma transparente e com o objetivo de encontrar o negócio mais adequado ao seu perfil.
             </chakra.p>
           </Box>
 
@@ -109,9 +109,7 @@ export default function Features() {
                   />
                 }
               >
-                Buscamos transformar vidas oferecendo uma forte mudança na condição econômica de pessoas que tenham interesse em 
-                atuar no mercado turítico no Brasil. Economicamente sustentáveis, oferecemos um custo inferior 
-                ao custo na Europa, buscando cidades e locais que apresentem condições propícias para o desenvolvimento de atividades turísticas.
+                Buscamos transformar vidas oferecendo uma forte mudança na condição econômico/financeira de pessoas que tenham interesse em atuar no mercado turístico brasileiro oferecendo  empreendimentos economicamente sustentáveis, com um custo inferior ao custo nos países europeus, buscando cidades e locais que apresentem condições propícias para o desenvolvimento de suas atividades.
               </Feature>
 
               <Feature
@@ -125,9 +123,7 @@ export default function Features() {
                   />
                 }
               >
-                Encontrar no mercado brasileiro empreendimentos turísticos em locais adequados ao perfil profissional e econômico de cada empreendedor.
-                Oferecemos assessoria jurídica e imobiliária em todo o território nacional, para que essas pessoas possam dar proseguimento a suas vidas num 
-                país maravilhoso, neutro e longe dos conflitos mundiais.
+                Encontrar no mercado brasileiro empreendimentos turísticos em locais adequados ao perfil profissional e econômico de cada empreendedor oferecendo assessoria jurídica e imobiliária em todo o território nacional, para que estes empreendedores possam então dar proseguimento a suas vidas num país maravilhoso, neutro e longe dos conflitos armamentistas da atualidade.
               </Feature>
 
               <Feature
@@ -141,9 +137,7 @@ export default function Features() {
                   />
                 }
               >
-                Devido a disparidade cambial entre dólar/euro e real, propriedades e estabelecimentos comerciais podem ser 
-                adquiridos por uma fração do valor de propriedades semelhantes em outras nações, gerando mais lucro 
-                com um capital de investimento muito menor.
+                Devido a disparidade cambial entre dólar/euro e real, propriedades e estabelecimentos comerciais podem ser adquiridos no Brasil por uma fração do valor de propriedades semelhantes em outras nações, gerando mais lucro com um capital imobilizado muito menor.
               </Feature>
 
               <Feature
@@ -157,9 +151,7 @@ export default function Features() {
                   />
                 }
               >
-                Temos como foco buscar exclusivamente pessoas e empreendedores de outros países que acreditem no potencial turístico brasileiro para oferecer-lhe
-                toda a assessoria necessária oferecendo tradutores, acompanhamento, avaliação dos imóveis, documentação, dados financeiros,
-                assessoria jurídica e imobiliária.
+                Temos como foco buscar pessoas e empreendedores de outros países que acreditem no potencial turístico brasileiro para oferecer-lhes toda a assessoria necessária desde o recebimento nos nossos aeroportos com tradutores, acompanhamento e avaliação da  documentação dos imóveis/empreendimentos, dados econômico/financeiros e assessoria jurídica para se estabelecerem no Brasil.
               </Feature>
             </Stack>
           </Box>

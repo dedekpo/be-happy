@@ -58,7 +58,7 @@ import {
           <Image src='/logo.png' h='50px'></Image>
           <Text>© 2022 Be Happy. Todos os direitos reservados</Text>
           <Stack direction={'row'} spacing={1} align='center'>
-            <Text>Feito por André Elias</Text>
+            <Text>Criado por andreeliasdev@gmail.com</Text>
           </Stack>
         </Container>
       </Box>
